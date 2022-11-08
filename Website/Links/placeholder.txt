@@ -1,0 +1,1 @@
+This is where the info for the redirect links gets stored by the API (api_v1.py).
